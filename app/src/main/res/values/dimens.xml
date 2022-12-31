@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text -->
+    <dimen name="size_text_title">24sp</dimen>
+    <dimen name="size_text_subtitle">16sp</dimen>
+    <dimen name="size_text_description">12sp</dimen>
+
+    <!-- Padding - Margin -->
+    <dimen name="size_default_pm">4dp</dimen>
+    <dimen name="size_double_pm">8dp</dimen>
+</resources>
